@@ -1,6 +1,6 @@
 {% set name = "textdistance" %}
-{% set version = "3.1.0" %}
-{% set sha256 = "415eebe1a41fb1048d9978c9abe964fa839ca9b97007f0a8931cdf360c686ed7" %}
+{% set version = "4.0.0" %}
+{% set sha256 = "9db4bd71ebab032c88d5ed1f5b653600d6d898113cb24f87e289bf5d68dcfaca" %}
 
 package:
   name: {{ name|lower }}
