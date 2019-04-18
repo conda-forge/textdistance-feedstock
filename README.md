@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About textdistance
 ==================
 
@@ -19,8 +15,17 @@ TextDistance – python library for comparing distance between two or more seque
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/textdistance-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/textdistance-feedstock)
+
+<table><tr>
+    
+    <td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5455&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/textdistance-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
