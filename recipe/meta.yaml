@@ -29,8 +29,8 @@ test:
 
 about:
   home: https://github.com/orsinium/textdistance
-  license: LGPL-3.0
-  license_family: LGPL
+  license: MIT
+  license_family: MIT
   license_file: LICENSE
   summary: 'TextDistance – python library for comparing distance between two or more sequences by many algorithms.'
 
