@@ -3,7 +3,7 @@ About textdistance
 
 Home: https://github.com/orsinium/textdistance
 
-Package license: LGPL-3.0
+Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/textdistance-feedstock/blob/master/LICENSE.txt)
 
@@ -122,6 +122,6 @@ Feedstock Maintainers
 =====================
 
 * [@andfoy](https://github.com/andfoy/)
-* [@ccorboba12](https://github.com/ccorboba12/)
+* [@ccordoba12](https://github.com/ccordoba12/)
 * [@cu8blank](https://github.com/cu8blank/)
 
