@@ -13,15 +13,15 @@ source:
 
 build:
   noarch: python
-  number: 0
-  script: python -m pip install --no-deps --ignore-installed .
+  number: 1
+  script: "{{ PYTHON }} -m pip install . -vv"
 
 requirements:
-  build:
-    - python
+  host:
+    - python >=2.7
     - pip
   run:
-    - python
+    - python >=2.7
 
 test:
   imports:
@@ -29,8 +29,8 @@ test:
 
 about:
   home: https://github.com/orsinium/textdistance
-  license: LGPL-3.0
-  license_family: LGPL
+  license: MIT
+  license_family: MIT
   license_file: LICENSE
   summary: 'TextDistance – python library for comparing distance between two or more sequences by many algorithms.'
 
@@ -42,3 +42,5 @@ about:
 extra:
   recipe-maintainers:
     - cu8blank
+    - andfoy
+    - ccordoba12
