@@ -1,11 +1,11 @@
-About textdistance
-==================
+About textdistance-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/textdistance-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/orsinium/textdistance
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/textdistance-feedstock/blob/main/LICENSE.txt)
 
 Summary: TextDistance – python library for comparing distance between two or more sequences by many algorithms.
 
